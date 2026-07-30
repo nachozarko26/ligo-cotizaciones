@@ -32,6 +32,7 @@ condiciones especiales]_
 - **En toda cotización de iPhone (X en adelante), incluir siempre el aviso de "pieza desconocida"** si no se transfiere la memoria EEPROM, ofreciendo la transferencia como servicio adicional (ver tabla de costos por modelo más abajo). Nunca omitirlo.
 - **Cada opción numerada siempre debe llevar su propia descripción corta** — nunca solo el nombre y el precio sin explicación. El cliente debe entender qué es lo que se le está cotizando en cada una.
 - **Si el proveedor da precios de varias pantallas de la misma categoría** (ej. varias AMOLED, o varias LCD), **cotizar cada una como opción separada** — nunca elegir solo una y descartar las demás. Usar nombres progresivos genéricos (ej. "AMOLED", "AMOLED de mejor calidad", "AMOLED premium").
+- **En iPhone, si hay pantallas "modo diagnóstico" disponibles** (Incell o AMOLED, ver sección de "Pantallas de memoria"), **ofrecerlas también como opciones normales** — sí se le puede decir "modo diagnóstico" al cliente. Si el precio que dan no especifica si es Incell o AMOLED, preguntar antes de cotizar.
 
 ### Nota estándar de cierre (confianza + garantía)
 
@@ -445,7 +446,7 @@ Precio = costo del repuesto + $200.000
 
 **Excepción:** para modelos de muy alto costo (ejemplo dado: iPhone 15 Pro Max), se puede subir a **+$250.000** — esto no es una regla fija, queda a criterio del asesor ("puede que"), no una tarifa obligatoria.
 
-### Memoria EEPROM del display (iPhone)
+#### Memoria EEPROM del display (iPhone)
 
 Las pantallas de iPhone tienen un pequeño chip de memoria (EEPROM) que guarda los seriales originales de la pantalla. Esto es lo que hace que el sistema (iOS) reconozca la pantalla como "original".
 
@@ -463,7 +464,7 @@ Las pantallas de iPhone tienen un pequeño chip de memoria (EEPROM) que guarda l
 
 **⚠️ Aviso obligatorio en toda cotización de iPhone (X en adelante):** siempre hay que incluirle al cliente una nota explicando que, si no se hace la transferencia de la memoria del display, el celular puede mostrar el aviso de "pieza desconocida" — y ofrecer la transferencia como servicio adicional con su costo (según la tabla de arriba). No es opcional omitir este aviso — debe ir en toda cotización de pantalla iPhone, sin importar la calidad elegida.
 
-### Pantallas de memoria ("de diagnóstico")
+#### Pantallas de memoria ("de diagnóstico")
 
 Son pantallas réplica que traen un **chip que imita los seriales originales** — evitan que salga el aviso de "pieza desconocida" **sin necesitar** la transferencia manual del chip EEPROM de la pantalla vieja (ver arriba). Según cómo quede registrada por el sistema, pueden aparecer como "pantalla usada" (aunque sea nueva) o incluso como "pantalla original" — pero nunca como "pieza desconocida". Existen en distintas calidades de panel — pueden ser de calidad **Incell** (colores más sencillos/feos, pero igual evitan el aviso) o de calidad AMOLED/superior.
 
@@ -475,9 +476,7 @@ Son pantallas réplica que traen un **chip que imita los seriales originales** �
 - **Pantalla de diagnóstico de mayor calidad (equivalente a AMOLED o superior):** se cotiza igual que la categoría Original — `costo del repuesto + $200.000`.
 - **⚠️ Pendiente de confirmar:** para iPhone 16 y 17, ¿existe también esta versión de diagnóstico Incell por separado de la Incell normal (+$200.000, ver sección 3), y si es así, cuánto se le sube? No asumir el mismo +$150.000 de la serie 12-15 sin confirmarlo.
 
-**Ambas variantes SÍ se le cotizan al cliente** (Ignacio lo confirmó): tanto la de diagnóstico calidad Incell como la de diagnóstico calidad AMOLED/superior deben ofrecerse como opciones normales dentro de la cotización, igual que cualquier otra calidad — no son un secreto ni un extra oculto.
-
-Al cliente, cada variante se presenta con "modo diagnóstico" en el nombre (esto sí se le dice) — lo que nunca se revela es que es una réplica con chip imitador, ni la marca/proveedor:
+**Ambas variantes se ofrecen al cliente como opciones normales de la cotización** — no son un extra oculto ni algo que solo se mencione si el cliente pregunta. Cada variante se presenta con "modo diagnóstico" en el nombre (esto sí se le dice) — lo que nunca se revela es que es una réplica con chip imitador, ni la marca/proveedor:
 
 - Variante calidad Incell → **"Pantalla LCD (modo diagnóstico)"**
 - Variante calidad AMOLED/superior → **"Pantalla AMOLED (modo diagnóstico)"**
