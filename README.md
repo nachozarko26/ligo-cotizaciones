@@ -29,6 +29,8 @@ condiciones especiales]_
 - Siempre incluir la nota de que las pantallas no tienen garantía una vez el equipo sale del local.
 - Si la opción es una pantalla **OEM/original traída de China**, incluir el aviso de la sección "OEM" (ver más abajo).
 - Si se ofrece la alternativa de pantalla importada de China (por precio muy alto en la opción nacional), aclarar tiempos de entrega (15 días, hasta 1 mes) y el anticipo del 50% antes de pedirla.
+- **En toda cotización de iPhone (X en adelante), incluir siempre el aviso de "pieza desconocida"** si no se transfiere la memoria EEPROM, ofreciendo la transferencia como servicio adicional (ver tabla de costos por modelo más abajo). Nunca omitirlo.
+- **Si el proveedor da precios de varias pantallas de la misma categoría** (ej. varias AMOLED, o varias LCD), **cotizar cada una como opción separada** — nunca elegir solo una y descartar las demás. Usar nombres progresivos genéricos (ej. "AMOLED", "AMOLED de mejor calidad", "AMOLED premium").
 
 ### Nota estándar de cierre (confianza + garantía)
 
@@ -132,6 +134,51 @@ posible. No es una pieza original.
 
 *4. Pantalla Original* — $900.000
 Colores y tasa de refresco idénticos a los de fábrica.
+
+_Ten en cuenta: si no se transfiere la memoria del display de tu
+pantalla actual a la nueva, el celular puede mostrar un aviso de
+"pieza desconocida". Podemos hacer esa transferencia por $150.000
+adicionales — con gusto te contamos más si te interesa._
+
+_Todo el proceso lo hacemos con el mayor cuidado, usando las mejores
+herramientas e insumos y con la experiencia de nuestro equipo
+técnico — ten la tranquilidad de que la instalación se hace de la
+forma más profesional posible. Eso sí, como es habitual con este
+tipo de repuestos, la pantalla no cuenta con garantía una vez el
+equipo sale de nuestro local. Por eso te invitamos a probarlo con
+calma, todo el tiempo que necesites, antes de retirarte._
+```
+
+**iPhone 13 Pro Max (varias calidades AMOLED — no colapsar en una sola):**
+
+```
+📱 *Cotización — Cambio de pantalla iPhone 13 Pro Max*
+
+*1. Pantalla LCD* — $220.000
+Opción más económica. Colores más sencillos que los del original.
+
+*2. Pantalla LCD de mejor calidad* — $250.000
+Mejores colores que la LCD estándar, aunque tampoco es AMOLED.
+
+*3. Pantalla AMOLED* — $420.000
+Colores muy similares a los del original, con una leve variación
+posible. No es una pieza original.
+
+*4. Pantalla AMOLED de mejor calidad* — $500.000
+Un nivel superior a la AMOLED estándar, con colores aún más cercanos
+al original.
+
+*5. Pantalla AMOLED premium* — $600.000
+La opción AMOLED de mayor calidad disponible, la más cercana a la
+original sin serlo.
+
+*6. Pantalla Original* — $1.000.000
+Colores y tasa de refresco idénticos a los de fábrica.
+
+_Ten en cuenta: si no se transfiere la memoria del display de tu
+pantalla actual a la nueva, el celular puede mostrar un aviso de
+"pieza desconocida". Podemos hacer esa transferencia por $150.000
+adicionales — con gusto te contamos más si te interesa._
 
 _Todo el proceso lo hacemos con el mayor cuidado, usando las mejores
 herramientas e insumos y con la experiencia de nuestro equipo
@@ -357,6 +404,14 @@ Al cliente solo se le dice: **"Pantalla AMOLED"**.
 
 **Excepción comercial (opción de entrada):** si incluso la pantalla AMOLED más económica que se consigue ya cuesta más de $250.000, se puede ofrecer una primera opción cobrando solo **+$150.000** en vez de saltar directo a +$200.000 — para que el precio no se dispare y el cliente no descarte la reparación por parecer muy cara. Si el cliente pide una calidad superior o una segunda opción AMOLED, esas sí se cotizan con la regla general de **+$200.000**.
 
+**⚠️ Regla importante — no colapsar varias calidades AMOLED en una sola:** cuando el proveedor da precios de más de una pantalla AMOLED (ej. GX, Hard OLED, Soft OLED — todas AMOLED reales), **hay que cotizar cada una como una opción separada al cliente, no elegir solo una.** Cada opción se calcula con la misma fórmula de esta categoría, aplicada a su propio costo. Se presentan con nombres progresivos genéricos, de más económica a más cara, sin decir la marca de ninguna:
+
+- **Pantalla AMOLED** (la más económica de las disponibles)
+- **Pantalla AMOLED de mejor calidad** (si hay una segunda opción)
+- **Pantalla AMOLED premium** (si hay una tercera opción)
+
+Se usan tantos niveles como precios distintos haya ese día (puede ser solo 1, 2, o hasta 3) — nunca se resume todo en una sola pantalla AMOLED cuando hay varias disponibles. Esta misma lógica de "no colapsar, mostrar cada nivel" aplica igual a la Categoría 1/2 de LCD cuando hay más de dos opciones LCD con precios distintos.
+
 #### Categoría 4 — Original
 
 Pantallas originales, **sin cambio de memoria EEPROM**.
@@ -373,17 +428,40 @@ Precio = costo del repuesto + $200.000
 
 Las pantallas de iPhone tienen un pequeño chip de memoria (EEPROM) que guarda los seriales originales de la pantalla. Esto es lo que hace que el sistema (iOS) reconozca la pantalla como "original".
 
-- **Si no se transfiere esa memoria** al instalar una pantalla nueva —aunque sea una pantalla **original**—, el celular queda funcionando con normalidad, pero el sistema muestra un aviso de que no reconoce la pantalla como original.
+- **Si no se transfiere esa memoria** al instalar una pantalla nueva —aunque sea una pantalla **original**—, el celular queda funcionando con normalidad, pero el sistema muestra un aviso de **"pieza desconocida"** (no reconoce la pantalla como original).
 - **Para evitar ese aviso**, hay que transferir físicamente el chip EEPROM de la pantalla original vieja del cliente a la pantalla nueva.
-- **Si el cliente ya se había cambiado la pantalla antes** (en otro lugar) y esa pantalla anterior no conservó/no tenía el chip EEPROM original, ya no hay chip que transferir — el aviso de "pantalla no original" va a aparecer sin importar lo que se haga. Esto es importante avisarle al cliente de antemano, para que no piense que es un error de instalación.
-- **Costo de la transferencia de EEPROM: $80.000 adicionales** sobre el precio de la pantalla.
-- **También se puede hacer en algunas pantallas réplica** (no solo en originales) — pero no en todas. Hay que validar con el proveedor si esa pantalla específica acepta el cambio de EEPROM antes de ofrecérselo al cliente. Si acepta y el cliente lo autoriza, el costo es el mismo: **$80.000 adicionales**.
+- **Si el cliente ya se había cambiado la pantalla antes** (en otro lugar) y esa pantalla anterior no conservó/no tenía el chip EEPROM original, ya no hay chip que transferir — el aviso de "pieza desconocida" va a aparecer sin importar lo que se haga. Esto es importante avisarle al cliente de antemano, para que no piense que es un error de instalación.
+- **También se puede hacer en algunas pantallas réplica** (no solo en originales) — pero no en todas. Hay que validar con el proveedor si esa pantalla específica acepta el cambio de EEPROM antes de ofrecérselo al cliente.
+
+**Costo de la transferencia de EEPROM — según el modelo:**
+
+| Modelo | Costo de la transferencia de EEPROM |
+|---|---|
+| iPhone X hasta iPhone 12 (toda la serie 12) | $80.000 adicionales |
+| iPhone 13 hasta iPhone 15 (toda la serie 13, 14 y 15) | $150.000 adicionales |
+
+**⚠️ Aviso obligatorio en toda cotización de iPhone (X en adelante):** siempre hay que incluirle al cliente una nota explicando que, si no se hace la transferencia de la memoria del display, el celular puede mostrar el aviso de "pieza desconocida" — y ofrecer la transferencia como servicio adicional con su costo (según la tabla de arriba). No es opcional omitir este aviso — debe ir en toda cotización de pantalla iPhone, sin importar la calidad elegida.
 
 ### Pantallas de memoria ("de diagnóstico")
 
 Son pantallas réplica que traen un **chip que imita los seriales originales** — evitan que salga el aviso de "pieza no original" **sin necesitar** la transferencia manual del chip EEPROM de la pantalla vieja (ver arriba). Según cómo quede registrada por el sistema, pueden aparecer como "pantalla usada" (aunque sea nueva) o incluso como "pantalla original" — pero nunca como "pieza desconocida".
 
 **⚠️ Precio a confirmar:** por lo que entendí, estas se cotizan igual que la categoría Original — `costo del repuesto + $200.000` — ya que le resuelven al cliente el mismo problema (el aviso de pantalla no original) sin el paso extra de transferir el EEPROM. Avísame si el precio es ese o es otro.
+
+### 3. iPhone 16 e iPhone 17 — 🔶 PROPUESTA de Claude, pendiente de confirmar por Ignacio
+
+Ignacio pidió una propuesta para cotizar estos modelos, ya que deben salir más caros que la serie 13-15 y todavía no hay reglas confirmadas. **Nada de esta sección es definitivo — es solo una propuesta a revisar/ajustar/aprobar.** Se basa en seguir el mismo patrón de incremento que ya se usó al pasar de la serie X-12 a la 13-15 (categorías y estructura iguales, pero con los montos de la parte "premium" — Original y EEPROM — un escalón más arriba, ya que son las que más reflejan el mayor costo/riesgo de los repuestos en modelos nuevos):
+
+| Concepto | Serie 13-15 (confirmado) | iPhone 16 (propuesta) | iPhone 17 (propuesta) |
+|---|---|---|---|
+| LCD / LCD mejor calidad | costo + $100.000 | igual: costo + $100.000 | igual: costo + $100.000 |
+| AMOLED (regla general) | costo + $200.000 | costo + $220.000 | costo + $250.000 |
+| Original | costo + $200.000 (+$250.000 en excepción) | costo + $250.000 (como tarifa base, no excepción) | costo + $300.000 |
+| Transferencia de EEPROM | $150.000 | $200.000 | $250.000 |
+
+La categorización (LCD / LCD de mejor calidad / AMOLED con sus niveles / Original) y todas las demás reglas de esta política (nunca revelar marca, no colapsar varias calidades AMOLED en una, aviso de "pieza desconocida", etc.) se mantendrían igual — lo único que cambiaría son estos montos.
+
+**Falta confirmar:** ¿estos montos están bien, o Ignacio prefiere otros? También falta saber si para el iPhone 16 ya existen categorías de calidad distintas a las de la serie 13-15 (por ejemplo, si aparece alguna tecnología de pantalla nueva que no sea LCD/AMOLED/Original).
 
 ### Casos especiales de clasificación (no por nombre comercial, sino por tecnología real)
 
