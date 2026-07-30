@@ -152,7 +152,7 @@ calma, todo el tiempo que necesites, antes de retirarte._
 
 **iPhone 13 Pro Max (varias calidades AMOLED — no colapsar en una sola; incluye la opción "sin aviso de pieza desconocida"):**
 
-*Nota: la opción 3 (LCD sin aviso de pieza desconocida) usa como ilustración el mismo costo de repuesto Incell de $120.000 + $150.000 = $270.000 — en la práctica, esa pantalla de diagnóstico puede tener un costo de proveedor distinto al de la LCD normal; hay que cotizarla con el precio real que dé el proveedor ese día.*
+*Nota: la opción 3 (LCD sin aviso de pieza desconocida) es una pantalla de diagnóstico con un costo de proveedor propio, siempre más caro que la Incell normal (no es el mismo repuesto). Aquí se usa $160.000 como precio ilustrativo de proveedor + $150.000 = $310.000 — el precio real depende de lo que cotice el proveedor ese día, y hay que confirmar que la tenga disponible (no siempre hay).*
 
 ```
 📱 *Cotización — Cambio de pantalla iPhone 13 Pro Max*
@@ -163,7 +163,7 @@ Opción más económica. Colores más sencillos que los del original.
 *2. Pantalla LCD de mejor calidad* — $250.000
 Mejores colores que la LCD estándar, aunque tampoco es AMOLED.
 
-*3. Pantalla LCD (sin aviso de pieza desconocida)* — $270.000
+*3. Pantalla LCD (sin aviso de pieza desconocida)* — $310.000
 Colores igual de sencillos que la LCD económica, pero con la
 ventaja de que el celular no mostrará el aviso de "pieza
 desconocida".
@@ -458,11 +458,13 @@ Las pantallas de iPhone tienen un pequeño chip de memoria (EEPROM) que guarda l
 
 Son pantallas réplica que traen un **chip que imita los seriales originales** — evitan que salga el aviso de "pieza desconocida" **sin necesitar** la transferencia manual del chip EEPROM de la pantalla vieja (ver arriba). Según cómo quede registrada por el sistema, pueden aparecer como "pantalla usada" (aunque sea nueva) o incluso como "pantalla original" — pero nunca como "pieza desconocida". Existen en distintas calidades de panel — pueden ser de calidad **Incell** (colores más sencillos/feos, pero igual evitan el aviso) o de calidad AMOLED/superior.
 
+**Disponibilidad:** las pantallas de diagnóstico calidad Incell **solo existen desde el iPhone 12 en adelante** — para X, XS, XS Max, 11, 11 Pro y 11 Pro Max no existe esta opción. El proveedor da un **precio aparte** para la versión de diagnóstico, siempre más cara que la Incell normal (no es el mismo costo de repuesto) — y **no siempre hay disponibilidad**, hay que consultar con el proveedor si la tiene ese día.
+
 **Precio — confirmado por Ignacio:**
 
-- **Pantalla de diagnóstico, calidad Incell, para iPhone 13, 14 y 15:** `costo del repuesto + $150.000`. Aunque los colores sean más sencillos (por ser Incell), el cliente no verá el aviso de "pieza desconocida" — ese es el valor que está pagando de más frente a una LCD normal.
+- **Pantalla de diagnóstico, calidad Incell, para iPhone 12, 13, 14 y 15:** `costo del repuesto (el que dé el proveedor para la versión de diagnóstico) + $150.000`. Aunque los colores sean más sencillos (por ser Incell), el cliente no verá el aviso de "pieza desconocida" — ese es el valor que está pagando de más frente a una LCD normal.
 - **Pantalla de diagnóstico de mayor calidad (equivalente a AMOLED o superior):** se cotiza igual que la categoría Original — `costo del repuesto + $200.000`.
-- **Para iPhone X a 12:** todavía no se ha definido un precio específico para la versión Incell de diagnóstico en ese rango de modelos — si aparece el caso, preguntarle a Ignacio antes de cotizarla, no asumir el mismo valor que 13-15.
+- **⚠️ Pendiente de confirmar:** para iPhone 16 y 17, ¿existe también esta versión de diagnóstico Incell por separado de la Incell normal (+$200.000, ver sección 3), y si es así, cuánto se le sube? No asumir el mismo +$150.000 de la serie 12-15 sin confirmarlo.
 
 Al cliente, esta opción se presenta como **"Pantalla LCD (sin aviso de pieza desconocida)"** — igual que las demás, nunca se le dice que es "de diagnóstico" ni "Incell".
 
