@@ -30,6 +30,7 @@ condiciones especiales]_
 - Si la opción es una pantalla **OEM/original traída de China**, incluir el aviso de la sección "OEM" (ver más abajo).
 - Si se ofrece la alternativa de pantalla importada de China (por precio muy alto en la opción nacional), aclarar tiempos de entrega (15 días, hasta 1 mes) y el anticipo del 50% antes de pedirla.
 - **En toda cotización de iPhone (X en adelante), incluir siempre el aviso de "pieza desconocida"** si no se transfiere la memoria EEPROM, ofreciendo la transferencia como servicio adicional (ver tabla de costos por modelo más abajo). Nunca omitirlo.
+- **Cada opción numerada siempre debe llevar su propia descripción corta** — nunca solo el nombre y el precio sin explicación. El cliente debe entender qué es lo que se le está cotizando en cada una.
 - **Si el proveedor da precios de varias pantallas de la misma categoría** (ej. varias AMOLED, o varias LCD), **cotizar cada una como opción separada** — nunca elegir solo una y descartar las demás. Usar nombres progresivos genéricos (ej. "AMOLED", "AMOLED de mejor calidad", "AMOLED premium").
 
 ### Nota estándar de cierre (confianza + garantía)
@@ -149,7 +150,9 @@ equipo sale de nuestro local. Por eso te invitamos a probarlo con
 calma, todo el tiempo que necesites, antes de retirarte._
 ```
 
-**iPhone 13 Pro Max (varias calidades AMOLED — no colapsar en una sola):**
+**iPhone 13 Pro Max (varias calidades AMOLED — no colapsar en una sola; incluye la opción "sin aviso de pieza desconocida"):**
+
+*Nota: la opción 3 (LCD sin aviso de pieza desconocida) usa como ilustración el mismo costo de repuesto Incell de $120.000 + $150.000 = $270.000 — en la práctica, esa pantalla de diagnóstico puede tener un costo de proveedor distinto al de la LCD normal; hay que cotizarla con el precio real que dé el proveedor ese día.*
 
 ```
 📱 *Cotización — Cambio de pantalla iPhone 13 Pro Max*
@@ -160,19 +163,22 @@ Opción más económica. Colores más sencillos que los del original.
 *2. Pantalla LCD de mejor calidad* — $250.000
 Mejores colores que la LCD estándar, aunque tampoco es AMOLED.
 
-*3. Pantalla AMOLED* — $420.000
+*3. Pantalla LCD (sin aviso de pieza desconocida)* — $270.000
+Colores igual de sencillos que la LCD económica, pero con la
+ventaja de que el celular no mostrará el aviso de "pieza
+desconocida".
+
+*4. Pantalla AMOLED* — $420.000
 Colores muy similares a los del original, con una leve variación
 posible. No es una pieza original.
 
-*4. Pantalla AMOLED de mejor calidad* — $500.000
-Un nivel superior a la AMOLED estándar, con colores aún más cercanos
-al original.
+*5. Pantalla AMOLED de mejor calidad* — $500.000
+Da colores un poco mejor que la opción anterior.
 
-*5. Pantalla AMOLED premium* — $600.000
-La opción AMOLED de mayor calidad disponible, la más cercana a la
-original sin serlo.
+*6. Pantalla AMOLED premium* — $600.000
+Da colores aún mejor que las dos opciones anteriores.
 
-*6. Pantalla Original* — $1.000.000
+*7. Pantalla Original* — $1.000.000
 Colores y tasa de refresco idénticos a los de fábrica.
 
 _Ten en cuenta: si no se transfiere la memoria del display de tu
@@ -412,6 +418,12 @@ Al cliente solo se le dice: **"Pantalla AMOLED"**.
 
 Se usan tantos niveles como precios distintos haya ese día (puede ser solo 1, 2, o hasta 3) — nunca se resume todo en una sola pantalla AMOLED cuando hay varias disponibles. Esta misma lógica de "no colapsar, mostrar cada nivel" aplica igual a la Categoría 1/2 de LCD cuando hay más de dos opciones LCD con precios distintos.
 
+**Cada opción SIEMPRE debe llevar su propia descripción corta** para que el cliente entienda qué está pagando (nunca solo el nombre y el precio, sin explicación). Para los niveles AMOLED, la descripción se mantiene simple y progresiva — no hay que inventar diferencias técnicas complicadas entre ellas, basta con decir que cada nivel da colores un poco mejor que el anterior. Ejemplo de redacción:
+
+- *Pantalla AMOLED:* "Colores muy similares a los del original, con una leve variación posible. No es una pieza original."
+- *Pantalla AMOLED de mejor calidad:* "Da colores un poco mejor que la opción anterior."
+- *Pantalla AMOLED premium:* "Da colores aún mejor que las dos opciones anteriores."
+
 #### Categoría 4 — Original
 
 Pantallas originales, **sin cambio de memoria EEPROM**.
@@ -444,24 +456,29 @@ Las pantallas de iPhone tienen un pequeño chip de memoria (EEPROM) que guarda l
 
 ### Pantallas de memoria ("de diagnóstico")
 
-Son pantallas réplica que traen un **chip que imita los seriales originales** — evitan que salga el aviso de "pieza no original" **sin necesitar** la transferencia manual del chip EEPROM de la pantalla vieja (ver arriba). Según cómo quede registrada por el sistema, pueden aparecer como "pantalla usada" (aunque sea nueva) o incluso como "pantalla original" — pero nunca como "pieza desconocida".
+Son pantallas réplica que traen un **chip que imita los seriales originales** — evitan que salga el aviso de "pieza desconocida" **sin necesitar** la transferencia manual del chip EEPROM de la pantalla vieja (ver arriba). Según cómo quede registrada por el sistema, pueden aparecer como "pantalla usada" (aunque sea nueva) o incluso como "pantalla original" — pero nunca como "pieza desconocida". Existen en distintas calidades de panel — pueden ser de calidad **Incell** (colores más sencillos/feos, pero igual evitan el aviso) o de calidad AMOLED/superior.
 
-**⚠️ Precio a confirmar:** por lo que entendí, estas se cotizan igual que la categoría Original — `costo del repuesto + $200.000` — ya que le resuelven al cliente el mismo problema (el aviso de pantalla no original) sin el paso extra de transferir el EEPROM. Avísame si el precio es ese o es otro.
+**Precio — confirmado por Ignacio:**
 
-### 3. iPhone 16 e iPhone 17 — 🔶 PROPUESTA de Claude, pendiente de confirmar por Ignacio
+- **Pantalla de diagnóstico, calidad Incell, para iPhone 13, 14 y 15:** `costo del repuesto + $150.000`. Aunque los colores sean más sencillos (por ser Incell), el cliente no verá el aviso de "pieza desconocida" — ese es el valor que está pagando de más frente a una LCD normal.
+- **Pantalla de diagnóstico de mayor calidad (equivalente a AMOLED o superior):** se cotiza igual que la categoría Original — `costo del repuesto + $200.000`.
+- **Para iPhone X a 12:** todavía no se ha definido un precio específico para la versión Incell de diagnóstico en ese rango de modelos — si aparece el caso, preguntarle a Ignacio antes de cotizarla, no asumir el mismo valor que 13-15.
 
-Ignacio pidió una propuesta para cotizar estos modelos, ya que deben salir más caros que la serie 13-15 y todavía no hay reglas confirmadas. **Nada de esta sección es definitivo — es solo una propuesta a revisar/ajustar/aprobar.** Se basa en seguir el mismo patrón de incremento que ya se usó al pasar de la serie X-12 a la 13-15 (categorías y estructura iguales, pero con los montos de la parte "premium" — Original y EEPROM — un escalón más arriba, ya que son las que más reflejan el mayor costo/riesgo de los repuestos en modelos nuevos):
+Al cliente, esta opción se presenta como **"Pantalla LCD (sin aviso de pieza desconocida)"** — igual que las demás, nunca se le dice que es "de diagnóstico" ni "Incell".
 
-| Concepto | Serie 13-15 (confirmado) | iPhone 16 (propuesta) | iPhone 17 (propuesta) |
-|---|---|---|---|
-| LCD / LCD mejor calidad | costo + $100.000 | igual: costo + $100.000 | igual: costo + $100.000 |
-| AMOLED (regla general) | costo + $200.000 | costo + $220.000 | costo + $250.000 |
-| Original | costo + $200.000 (+$250.000 en excepción) | costo + $250.000 (como tarifa base, no excepción) | costo + $300.000 |
-| Transferencia de EEPROM | $150.000 | $200.000 | $250.000 |
+### 3. iPhone 16 e iPhone 17 — confirmado por Ignacio
 
-La categorización (LCD / LCD de mejor calidad / AMOLED con sus niveles / Original) y todas las demás reglas de esta política (nunca revelar marca, no colapsar varias calidades AMOLED en una, aviso de "pieza desconocida", etc.) se mantendrían igual — lo único que cambiaría son estos montos.
+El iPhone 16 y 17 vienen de fábrica en calidad AMOLED (no LCD/Incell) — pero, igual que pasa con Android, los proveedores chinos sí sacan réplicas en calidad **Incell** para estos modelos aunque nunca hayan traído esa tecnología de fábrica. Por eso esta serie sí puede tener una opción "Incell" barata además de las AMOLED.
 
-**Falta confirmar:** ¿estos montos están bien, o Ignacio prefiere otros? También falta saber si para el iPhone 16 ya existen categorías de calidad distintas a las de la serie 13-15 (por ejemplo, si aparece alguna tecnología de pantalla nueva que no sea LCD/AMOLED/Original).
+| Concepto | iPhone 16 | iPhone 17 |
+|---|---|---|
+| Pantalla Incell (réplica, aunque el original sea AMOLED) | costo + $200.000 | costo + $200.000 |
+| Pantalla AMOLED económica | costo + $250.000 | costo + $250.000 |
+| Pantalla AMOLED de mejor calidad (si hay una opción más costosa) | costo + $300.000 | costo + $300.000 |
+| Pantalla Original | costo + $250.000 | costo + $300.000 |
+| Transferencia de EEPROM | $150.000 | $250.000 |
+
+Al cliente, la pantalla Incell de estos modelos se presenta igual que siempre: **"Pantalla LCD"** (nunca se le dice "Incell"). El resto de reglas de esta política (no colapsar varias calidades en una sola, aviso obligatorio de "pieza desconocida", nunca revelar marca/proveedor, etc.) aplican igual para estos modelos.
 
 ### Casos especiales de clasificación (no por nombre comercial, sino por tecnología real)
 
