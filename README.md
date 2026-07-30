@@ -150,9 +150,9 @@ equipo sale de nuestro local. Por eso te invitamos a probarlo con
 calma, todo el tiempo que necesites, antes de retirarte._
 ```
 
-**iPhone 13 Pro Max (varias calidades AMOLED — no colapsar en una sola; incluye la opción "sin aviso de pieza desconocida"):**
+**iPhone 13 Pro Max (varias calidades AMOLED — no colapsar en una sola; incluye ambas variantes "sin aviso de pieza desconocida"):**
 
-*Nota: la opción 3 (LCD sin aviso de pieza desconocida) es una pantalla de diagnóstico con un costo de proveedor propio, siempre más caro que la Incell normal (no es el mismo repuesto). Aquí se usa $160.000 como precio ilustrativo de proveedor + $150.000 = $310.000 — el precio real depende de lo que cotice el proveedor ese día, y hay que confirmar que la tenga disponible (no siempre hay).*
+*Nota: las opciones 3 y 7 (sin aviso de pieza desconocida) son pantallas de diagnóstico con costo de proveedor propio, siempre más caras que la Incell/AMOLED normal (no es el mismo repuesto). Aquí se usan precios ilustrativos de proveedor: $160.000 + $150.000 = $310.000 para la Incell, y $350.000 + $200.000 = $550.000 para la AMOLED — el precio real depende de lo que cotice el proveedor ese día, y hay que confirmar que la tenga disponible (no siempre hay).*
 
 ```
 📱 *Cotización — Cambio de pantalla iPhone 13 Pro Max*
@@ -178,7 +178,11 @@ Da colores un poco mejor que la opción anterior.
 *6. Pantalla AMOLED premium* — $600.000
 Da colores aún mejor que las dos opciones anteriores.
 
-*7. Pantalla Original* — $1.000.000
+*7. Pantalla AMOLED (sin aviso de pieza desconocida)* — $550.000
+Colores muy similares al original, con la ventaja de que el celular
+no mostrará el aviso de "pieza desconocida".
+
+*8. Pantalla Original* — $1.000.000
 Colores y tasa de refresco idénticos a los de fábrica.
 
 _Ten en cuenta: si no se transfiere la memoria del display de tu
@@ -466,7 +470,14 @@ Son pantallas réplica que traen un **chip que imita los seriales originales** �
 - **Pantalla de diagnóstico de mayor calidad (equivalente a AMOLED o superior):** se cotiza igual que la categoría Original — `costo del repuesto + $200.000`.
 - **⚠️ Pendiente de confirmar:** para iPhone 16 y 17, ¿existe también esta versión de diagnóstico Incell por separado de la Incell normal (+$200.000, ver sección 3), y si es así, cuánto se le sube? No asumir el mismo +$150.000 de la serie 12-15 sin confirmarlo.
 
-Al cliente, esta opción se presenta como **"Pantalla LCD (sin aviso de pieza desconocida)"** — igual que las demás, nunca se le dice que es "de diagnóstico" ni "Incell".
+**Ambas variantes SÍ se le cotizan al cliente** (Ignacio lo confirmó): tanto la de diagnóstico calidad Incell como la de diagnóstico calidad AMOLED/superior deben ofrecerse como opciones normales dentro de la cotización, igual que cualquier otra calidad — no son un secreto ni un extra oculto.
+
+Al cliente, cada variante se presenta así (nunca se le dice "de diagnóstico", "Incell" ni "AMOLED modo diagnóstico" tal cual):
+
+- Variante calidad Incell → **"Pantalla LCD (sin aviso de pieza desconocida)"**
+- Variante calidad AMOLED/superior → **"Pantalla AMOLED (sin aviso de pieza desconocida)"**
+
+**⚠️ Regla importante — preguntar si no se especifica cuál es:** si Ignacio (o quien dé el precio) menciona una "pantalla de modo diagnóstico" sin aclarar si es calidad Incell o AMOLED, **hay que preguntar cuál de las dos es** antes de armar la cotización — nunca asumir una por defecto, ya que cambian tanto el recargo ($150.000 vs $200.000) como el nombre que se le muestra al cliente.
 
 ### 3. iPhone 16 e iPhone 17 — confirmado por Ignacio
 
