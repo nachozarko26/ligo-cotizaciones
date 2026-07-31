@@ -33,6 +33,9 @@ condiciones especiales]_
 - **Cada opción numerada siempre debe llevar su propia descripción corta** — nunca solo el nombre y el precio sin explicación. El cliente debe entender qué es lo que se le está cotizando en cada una.
 - **Si el proveedor da precios de varias pantallas de la misma categoría** (ej. varias AMOLED, o varias LCD), **cotizar cada una como opción separada** — nunca elegir solo una y descartar las demás. Usar nombres progresivos genéricos (ej. "AMOLED", "AMOLED de mejor calidad", "AMOLED premium").
 - **En iPhone, si hay pantallas "modo diagnóstico" disponibles** (Incell o AMOLED, ver sección de "Pantallas de memoria"), **ofrecerlas también como opciones normales** — sí se le puede decir "modo diagnóstico" al cliente. Si el precio que dan no especifica si es Incell o AMOLED, preguntar antes de cotizar.
+- **Nunca inventar un precio, recargo o regla que no esté en este documento.** Si algo no está definido acá (por ejemplo, un modelo, categoría o rango de precio que no aparece), decirlo claramente y preguntar — no improvisar un número "parecido" a otro que sí esté documentado.
+- **Si dan un precio de una calidad/marca de pantalla que no está en este documento** (distinta a JK, GX, Hard OLED, Soft OLED, Incell, Original, modo diagnóstico), **preguntar cómo se debe cotizar esa calidad** — esto también sirve como aviso de que el documento necesita actualizarse con ese caso nuevo.
+- **Si el costo del repuesto que dan supera $1.200.000** (el techo superior de la tabla de mano de obra), **preguntar cómo cotizarlo en vez de extrapolar la fórmula más allá de ese rango** — no está definido qué pasa por encima de ese monto.
 
 ### Nota estándar de cierre (confianza + garantía)
 
@@ -494,8 +497,11 @@ El iPhone 16 y 17 vienen de fábrica en calidad AMOLED (no LCD/Incell) — pero,
 | Concepto | iPhone 16 | iPhone 17 |
 |---|---|---|
 | Pantalla Incell (réplica, aunque el original sea AMOLED) | costo + $200.000 | costo + $200.000 |
+| Pantalla Incell de mejor calidad (si hay una segunda opción Incell) | costo + $200.000 | costo + $200.000 |
+| Pantalla LCD/Incell (modo diagnóstico) | costo + $200.000 | costo + $200.000 |
 | Pantalla AMOLED económica | costo + $250.000 | costo + $250.000 |
 | Pantalla AMOLED de mejor calidad (si hay una opción más costosa) | costo + $300.000 | costo + $300.000 |
+| Pantalla AMOLED (modo diagnóstico) | costo + $250.000 | costo + $300.000 |
 | Pantalla Original | costo + $250.000 | costo + $300.000 |
 | Transferencia de EEPROM | $150.000 | $250.000 |
 
