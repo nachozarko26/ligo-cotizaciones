@@ -476,8 +476,8 @@ Son pantallas réplica que traen un **chip que imita los seriales originales** �
 **Precio — confirmado por Ignacio:**
 
 - **Pantalla de diagnóstico, calidad Incell, para iPhone 12, 13, 14 y 15:** `costo del repuesto (el que dé el proveedor para la versión de diagnóstico) + $150.000`. Aunque los colores sean más sencillos (por ser Incell), el cliente no verá el aviso de "pieza desconocida" — ese es el valor que está pagando de más frente a una LCD normal.
-- **Pantalla de diagnóstico de mayor calidad (equivalente a AMOLED o superior):** se cotiza igual que la categoría Original — `costo del repuesto + $200.000`.
-- **⚠️ Pendiente de confirmar:** para iPhone 16 y 17, ¿existe también esta versión de diagnóstico Incell por separado de la Incell normal (+$200.000, ver sección 3), y si es así, cuánto se le sube? No asumir el mismo +$150.000 de la serie 12-15 sin confirmarlo.
+- **Pantalla de diagnóstico de mayor calidad (equivalente a AMOLED o superior), para iPhone 12, 13, 14 y 15:** se cotiza igual que la categoría Original — `costo del repuesto + $200.000`.
+- **Para iPhone 16 y 17:** ver la tabla de la sección 3 más abajo — la versión Incell de diagnóstico y la de mayor calidad ya tienen precio confirmado ahí, igual que el resto de categorías de esos modelos.
 
 **Ambas variantes se ofrecen al cliente como opciones normales de la cotización** — no son un extra oculto ni algo que solo se mencione si el cliente pregunta. Cada variante se presenta con "modo diagnóstico" en el nombre (esto sí se le dice) — lo que nunca se revela es que es una réplica con chip imitador, ni la marca/proveedor:
 
